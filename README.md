@@ -3,4 +3,9 @@ Exploring Expo client (Fun &amp; easy) &amp; developed a face detecting camera a
 
 # Useful Doc
 [Expo](https://docs.expo.io/versions/latest/sdk/camera/)  
-[React native](https://facebook.github.io/react-native/)
+[React native](https://facebook.github.io/react-native/)  
+
+## Running the application (Easiest part)
+- npm install expo-cli  
+- expo start  
+- Download expo on your phone. 
