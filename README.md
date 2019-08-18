@@ -3,5 +3,5 @@ Exploring Expo client (Fun &amp; easy) &amp; developed a face detecting camera a
 Expo saves time of setting up a developement env as well.  
 
 # Useful Doc
-Expo - https://docs.expo.io/versions/latest/sdk/camera/  
-React native - https://docs.expo.io/versions/latest/sdk/camera/
+[Expo](https://docs.expo.io/versions/latest/sdk/camera/)  
+[React native](https://facebook.github.io/react-native/)
