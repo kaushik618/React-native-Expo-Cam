@@ -6,6 +6,7 @@ Exploring Expo client (Fun &amp; easy) &amp; developed a face detecting camera a
 [React native](https://facebook.github.io/react-native/)  
 
 ## Running the application (Easiest part)
+- Clone
 - npm install expo-cli  
 - expo start  
 - Download expo on your phone. 
